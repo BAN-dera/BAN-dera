@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Ostap Doroshenko
-- 👀 I’m interested in developing open-source software and networking
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I’m Ostap Doroshenko
 
-<!---
-BAN-dera/BAN-dera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm young student and programmer!
+- ✋ Learning everything that exists
+- ⚡ Writing C++/Rust code for speed, Python/JS for prototype
+- 🌓 Can work overwhelming in night or day, doesn't make sense for me
+- 🎩 Looking for a job
