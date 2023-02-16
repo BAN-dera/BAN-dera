@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ostap Doroshenko
+### 👋 Hi, I’m Segfault Lover
 
 ## I'm young student and programmer!
 - ✋ Learning everything that exists
